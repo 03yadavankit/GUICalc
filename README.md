@@ -4,11 +4,8 @@ This is a simple calculator application built using the Kivy framework. The app 
 
 ## Installation
 
-To use the calculator app, you need to have Python and Kivy installed on your system. Follow these steps to install the necessary dependencies:
-
-1. Install Python (version X.X.X) from the official Python website: https://www.python.org/downloads/
-
-2. Install Kivy framework by running the following command in your terminal or command prompt:
+To use the calculator app, you need to have Python and Kivy installed on your system. 
+Install Kivy framework by running the following command in your terminal or command prompt:
 
 ## Usage
 
